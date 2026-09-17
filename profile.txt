@@ -1,0 +1,6 @@
+Student Profile
+Student ID: 69319010034
+Name: Kotnicha Wichara
+Course: Software Development
+Level: Vocational Certificate
+Topic: Git and GitHub

@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-# devops-final-exam-student
-=======
-# DevOps Final Exam Student
+# โครงงานสอบปลายภาค
 
-## Student Information
+## ข้อมูลนักศึกษา
 
-Name: Kotnicha Wichara
-Course: Software Development
+ชื่อ: กชณิชา วิจาราณ์
+หลักสูตร: นักพัฒนาซอฟต์แวร์
+แผนก: เทคโนโลยีสารสนเทศ
+วิทยาลัย: วิทยาลัยเทคนิคสุราษฎร์ธานี
 
-## Purpose
+## วัตถุประสงค์
 
-This repository is created for the final practical exam.
-It demonstrates the basic use of Git and GitHub.
->>>>>>> 7cd2981 (Add initial project files)
+จัดทำพื้นที่เก็บไฟล์โครงงานสำหรับการสอบปฏิบัติปลายภาคเพื่อแสดงการใช้งาน Git และ GitHub เบื้องต้น

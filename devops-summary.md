@@ -1,26 +1,11 @@
-# DevOps Summary
+# สรุปความรู้เรื่อง GitHub และ DevOps
 
-## What is DevOps?
+1. Git คือเครื่องมือสำหรับควบคุมเวอร์ชันของไฟล์และซอร์สโค้ด
 
-DevOps is an approach that combines software development
-and operations to improve collaboration and software delivery.
+2. GitHub คือแพลตฟอร์มออนไลน์สำหรับจัดเก็บ Repository และทำงานร่วมกัน
 
-## What is Git?
+3. Repository คือพื้นที่จัดเก็บไฟล์โครงการและประวัติการเปลี่ยนแปลง
 
-Git is a version control system used to track changes
-in files and source code.
+4. Commit คือการบันทึกสถานะของไฟล์งานในช่วงเวลาหนึ่ง
 
-## What is GitHub?
-
-GitHub is an online platform for hosting Git repositories
-and collaborating on software projects.
-
-## Basic Git Commands
-
-- git init - Create a Git repository
-- git status - Check repository status
-- git add - Add files to staging
-- git commit - Save changes
-- git push - Upload changes to GitHub
-- git pull - Download changes from GitHub
-- git log - View commit history
+5. การ Push ไฟล์ขึ้น GitHub ช่วยให้สามารถส่งงาน ตรวจสอบงาน และทำงานร่วมกันตามแนวคิด DevOps ได้สะดวกขึ้น

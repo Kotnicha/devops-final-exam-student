@@ -1,6 +1,7 @@
-Student Profile
-Student ID: 69319010034
-Name: Kotnicha Wichara
-Course: Software Development
-Level: Vocational Certificate
-Topic: Git and GitHub
+ชื่อ-สกุล: กชณิชา วิจาราณ์
+ระดับชั้น: ปวส.1/3
+แผนกวิชา: เทคโนโลยีสารสนเทศ
+เลขที่: 034
+วันที่สอบ: 17/09/2569
+ชื่อ Repository: devops-final-exam-Student
+ลิงค์ GitHub Repository:https://github.com/kotnicha/devops-final-exam-student.git
